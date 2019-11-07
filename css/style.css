@@ -1,0 +1,41 @@
+body{
+    height: 4000px;
+}
+
+#fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 20px;
+    /* background: linear-gradient(to right, rgba(0, 128, 128, 0.671), rgba(255, 99, 71, 0.548)); */
+    background-color: green;
+    width: 0%;
+    text-align: center;
+    line-height: 20px;
+    font-size: 20px;
+}
+
+#per{
+    position: fixed;
+    top: 50px;
+}
+
+#scrollableheight{
+    position: fixed;
+    top: 70px;
+}
+
+#scrollheight{
+    position: fixed;
+    top: 90px;
+}
+
+#scrolltop{
+    position: fixed;
+    top: 110px;
+}
+
+#innerheight{
+    position: fixed;
+    top: 130px;
+}
